@@ -1,8 +1,9 @@
 package main
 
 import (
-	"Anderson-losada-expe/go-eureka-lib/eureka"
 	"fmt"
+
+	"github.com/Anderson-losada-expe/go-eureka-lib/eureka"
 )
 
 func main() {

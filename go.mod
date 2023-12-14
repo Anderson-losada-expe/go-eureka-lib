@@ -1,4 +1,4 @@
-module Anderson-losada-expe/go-eureka-lib
+module github.com/Anderson-losada-expe/go-eureka-lib
 
 go 1.19
 

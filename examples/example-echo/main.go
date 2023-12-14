@@ -1,13 +1,13 @@
 package main
 
 import (
-	"Anderson-losada-expe/go-eureka-lib/eureka"
 	"fmt"
 	"net/http"
 	"os"
 	"os/signal"
 	"syscall"
 
+	"github.com/Anderson-losada-expe/go-eureka-lib/eureka"
 	"github.com/labstack/echo/v4"
 )
 
